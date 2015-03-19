@@ -2,6 +2,8 @@
 
 As you type you'll see the preview pane update. The longer your posts gets, the less frequently it will refresh. To show the latest content immediately, click anywhere (*i.e. blur*) out of the editor.
 
+Here'sx a chnge
+
 Note that you still need to click **SAVE** to save your work. If the **SAVE** button is disabled, it means your Markdown is saved.
 
 ## Handy Markdown snippits
