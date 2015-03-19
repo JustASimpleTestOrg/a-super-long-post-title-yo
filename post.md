@@ -5,7 +5,7 @@ As you type you'll see the preview pane update. The longer your posts gets, the 
 Here'sx a chnge
 
 Note that you still need to click **SAVE** to save your work. If the **SAVE** button is disabled, it means your Markdown is saved.
-
+Change 
 ## Handy Markdown snippits
 
 ### Links and Images
