@@ -18,7 +18,7 @@ change
 change it
 ## Use h2 for headings
 
-- h1 is already taken by your post's title, so don't use single # h1 headings
+- h1 is already taken by your post's title, so dasdfasdfasdfon't use single # h1 headings
 
 ### h3 are good for sub-headings
 
