@@ -15,7 +15,7 @@ Links are easy! Here's link back to [Your post contributions](/posts/me). Here's
 ![AirPair Logo](/static/img/css/airpair-author.png)
 change  
 ### Headings
-
+change it
 ## Use h2 for headings
 
 - h1 is already taken by your post's title, so don't use single # h1 headings
